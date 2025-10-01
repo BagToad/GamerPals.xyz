@@ -1,7 +1,13 @@
 [[main]]
   name = "Rules"
-  url = "/docs/resources/rules"
+  url = "/docs/info/rules"
+  weight = 20
+
+[[main]]
+  name = "About"
+  url = "/docs/info/about"
   weight = 10
+
 
 # [[social]]
 #   name = "Twitter"
