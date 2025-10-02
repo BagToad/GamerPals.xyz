@@ -20,6 +20,11 @@ Below are the rules of the server. If you are unsure about any or wish to discus
 
 Please help us keep this server a friendly, positive and welcoming place for all.
 
+This means:
+- No personal attacks, insults, or put-downs.
+- No inflammatory or derogatory remarks.
+- No passive aggression or backhanded compliments meant to hurt or demean.
+
 ## 2. No advertising, no recruiting
 
 This includes linking to other discord servers in both the server and direct messages. The members of GamerPals are here to make personal connections, not be coerced to join yet another server.
@@ -30,7 +35,7 @@ When in doubt, STOP, ask moderators before continuing.
 
 ## 3. No romantic advances
 
-GamerPals is a **stricly** platonic server.
+GamerPals is a **stricly** platonic community.
 
 We recognize we are all adults and feelings happen, but that's not what this is about. Joining GamerPals specifically to find a romantic partner is stricly prohibited.
 
@@ -40,19 +45,19 @@ Violations of this rule include:
 
 ## 4. No NSFW or overly graphic material
 
-We recognize gaming culture has a connection to sexually charged banter, and some level of topics not typically "safe for work" will typically arise.
+We recognize gaming culture has a connection to banter, and some degree of topics not typically "safe for work" will typically arise.
 
-However, execssively sexual language, jokes, or images can get in the way of platonics and friend-making.
+However, excessively sexual language, jokes, or images can get in the way of platonics and friend-making.
 
-Moderators will issue warnings for the following behavior:
+Moderators **will** issue warnings for the following behavior:
 
 - graphic/directly sexual images/pornography.
-- discussion of sex acts without innuendo - directly sexual comments with no hidden meaning.
-- lengthy discussion lingering on a sexual themes. Moderators reserve the right to move the conversation along.
+- discussion of sex acts without any meaning aside from being directly sexual.
+- lengthy discussion lingering on sexual themes. Moderators reserve the right to move the conversation along.
 - flirtatious sexual innuendo directed towards any person including themselves.
-- nonconseual sexual commentary towards any person.
+- nonconsensual sexual commentary towards any person.
 
-Not sure? Send it to a staff member in a ticket first.
+Staff will have the final say in what crosses the lines. Not sure? Send it to a staff member in a ticket first.
 
 ## 5. Subjects better discussed elsewhere
 
@@ -73,12 +78,9 @@ GamerPals moderators have the right to intervene in and shut down any conversati
 
 Absolutely zero tolerance for hate of any kind.
 
-
 ## 7. Don't obstruct moderation
 
 If you see any of our staff members actively moderating a channel, please stay out of their way until the situation has been resolved. Any members interjecting in active cases of moderation are only making the job harder for the GamerPals staff.
-
-Staff have the final say on moderation matters, i.e "rule lawyering" is not permitted. If you wish to lodge a general complaint about the conduct of the moderation team in a given situation, you may do so via a ticket. You do not need to do someone else's bidding on being treated unfairly in chat, and this will likely be perceived as interference by the moderation team.
 
 These rules try to cover as much as possible but unforeseeable situations could arise and will be up to the staff's discretion.
 
@@ -99,6 +101,8 @@ This speaks for itself: don't be difficult or generally a pain in the ass by try
 Minimodding will not be tolerated in the server.
 
 A user is considered minimodding if they try to moderate a conversation without being a staff member. This includes repeatedly pointing out to a user that something is against the rules.
+
+Staff have the final say on moderation matters, i.e "rule lawyering" is not permitted. If you wish to lodge a general complaint about the conduct of the moderation team in a given situation, you may do so via a ticket. You do not need to do someone else's bidding on being treated unfairly in chat, and this will likely be perceived as interference by the moderation team.
 
 If you suspect a member is breaking a rule, do not engage. Avoid piling on the user with your own rules lawyering. Alert one of our staff members through a ticket.
 
