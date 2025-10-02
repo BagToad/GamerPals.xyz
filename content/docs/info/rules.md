@@ -23,7 +23,7 @@ Please help us keep this server a friendly, positive and welcoming place for all
 This means:
 - No personal attacks, insults, or put-downs.
 - No inflammatory or derogatory remarks.
-- No passive aggression or backhanded compliments meant to hurt or demean.
+- No passive aggression or backhanded comments meant to hurt or demean.
 
 ## 2. No advertising, no recruiting
 
