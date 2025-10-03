@@ -16,6 +16,8 @@ seo:
 
 Below are the rules of the server. If you are unsure about any or wish to discuss in further detail, contact the moderators.
 
+{{< callout note >}} All our rules apply to messages, images, profile pictures, server tags, statuses, and any other content visible from the server {{< /callout >}}
+
 ## 1. Be kind to your fellow pals
 
 Please help us keep this server a friendly, positive and welcoming place for all.
