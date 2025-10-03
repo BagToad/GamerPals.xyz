@@ -14,7 +14,7 @@ seo:
   noindex: false # false (default) or true
 ---
 
-Below are the rules of the server. If you are unsure about any or wish to discuss in further detail, contact the moderators.
+Below are the rules of the server. If you are unsure about any or wish to discuss in further detail, [contact the moderators.](https://discord.com/channels/142663614937956353/1374878540784337008)
 
 {{< callout note >}} All our rules apply to messages, images, profile pictures, server tags, statuses, and any other content visible from the server {{< /callout >}}
 
