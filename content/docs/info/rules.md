@@ -109,3 +109,5 @@ If you suspect a member is breaking a rule, do not engage. Avoid piling on the u
 ### Do not discuss infractions in public
 
 Use a ticket if you want to discuss an infraction or mute: don't do it anywhere else on the server.
+
+Use our suggestion box if it's just a general suggestion.
