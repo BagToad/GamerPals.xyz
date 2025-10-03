@@ -27,7 +27,7 @@ This means:
 
 ## 2. No advertising, no recruiting
 
-This includes linking to other discord servers in both the server and direct messages. The members of GamerPals are here to make personal connections, not be coerced to join yet another server.
+This includes linking to other discord servers in both the server and unsolicited direct messages. The members of GamerPals are here to make personal connections, not be coerced to join yet another server.
 
 Do not advertise anything you stand to benefit from. A few examples of this are: other Discord servers, websites, Youtube channels, etc.
 
@@ -45,7 +45,7 @@ Violations of this rule include:
 
 ## 4. No NSFW or overly graphic material
 
-We recognize gaming culture has a connection to banter, and some degree of topics not typically "safe for work" will typically arise.
+We recognize gaming culture has a connection to banter, and some degree of topics not typically "safe for work" will arise.
 
 However, excessively sexual language, jokes, or images can get in the way of platonics and friend-making.
 
