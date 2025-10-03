@@ -35,13 +35,13 @@ When in doubt, STOP, ask moderators before continuing.
 
 ## 3. No romantic advances
 
-GamerPals is a **stricly** platonic community.
+GamerPals is a **strictly** platonic community.
 
-We recognize we are all adults and feelings happen, but that's not what this is about. Joining GamerPals specifically to find a romantic partner is stricly prohibited.
+We recognize we are all adults and feelings happen, but that's not what this is about. Joining GamerPals specifically to find a romantic partner is strictly prohibited.
 
 Violations of this rule include:
 - targeting a specific gender, or sexual orientation
-- unsolicited sexual or adjascently sexual direct messages
+- unsolicited sexual or adjacently sexual direct messages
 
 ## 4. No NSFW or overly graphic material
 
@@ -55,7 +55,7 @@ Moderators **will** issue warnings for the following behavior:
 - discussion of sex acts without any meaning aside from being directly sexual.
 - lengthy discussion lingering on sexual themes. Moderators reserve the right to move the conversation along.
 - flirtatious sexual innuendo directed towards any person including themselves.
-- nonconsensual sexual commentary towards any person.
+- non-consensual sexual commentary towards any person.
 
 Staff will have the final say in what crosses the lines. Not sure? Send it to a staff member in a ticket first.
 
