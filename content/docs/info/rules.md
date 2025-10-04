@@ -17,6 +17,7 @@ seo:
 Below are the rules of the server. If you are unsure about any or wish to discuss in further detail, [contact the moderators.](https://discord.com/channels/142663614937956353/1374878540784337008)
 
 {{< callout context="caution" title="The scope of this document" icon="outline/info-circle" >}}
+{{< details "Details" >}}
 This list is meant to offer guidance to members for what is and is not considered appropriate conduct in the community, as well as create an enforcement framework for moderators. We strive to describe this in as much detail as possible, to offer the best guidance we can.
 
 However, this document does not limit moderators’ enforcement authority. The highest level objective for moderators is to maintain order and stability in the community. To this end, moderators may limit any conduct and remove any content that causes disruption as they see fit, whether it violates a specific rule or not.
@@ -26,6 +27,7 @@ We furthermore reserve the right to make changes to this document at any time wi
 By joining the community and participating in it, you affirm that you have read, understood, and accept these rules as they are written, in full and unconditionally. You furthermore affirm your commitment to making a reasonable effort to follow them at all times.
 
 All our rules apply to messages, images, profile pictures, server tags, statuses, and any other content visible from the server.
+{{< /details >}}
 {{< /callout >}}
 
 ## 1. Be kind to your fellow pals and staff members
