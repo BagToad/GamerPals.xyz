@@ -26,6 +26,7 @@ This means:
 - No personal attacks, insults, or put-downs.
 - No inflammatory or derogatory remarks.
 - No passive aggression or backhanded comments meant to hurt or demean.
+- No hate speech, any type of bullying, or harassment (zero tolerance)
 
 ## 2. No advertising, no recruiting
 
@@ -74,32 +75,32 @@ Examples of time-old topics that are covered by this rule include, but are not l
 - Mental health support
 - Ongoing global armed conflicts
 
-GamerPals moderators have the right to intervene in and shut down any conversations on these kinds of topics and redirect them to more appropriate fora.
+{{< callout context="caution" title="Important" icon="outline/alert-triangle" >}}
+Sharing your identity and experiences is always welcome. This is part of getting to know new people. The spirit of this rule is to avoid
+debates that are likely to lead to arguments and hurt feelings.
+{{< /callout >}}
 
-## 6. No hate speech, any type of bullying, or harassment
+GamerPals staff have the right to intervene in and shut down any conversations on these kinds of topics and redirect them to more appropriate fora. Staff also have the right to *NOT* intervene when we feel a conversation does not approach these topics. Please respect their judgment, and if you have any questions, please discuss with the staff [through a ticket](https://discord.com/channels/142663614937956353/1374878540784337008).
 
-Absolutely zero tolerance for hate of any kind.
-
-## 7. Don't obstruct moderation
+## 6. Don't obstruct moderation
 
 If you see any of our staff members actively moderating a channel, please stay out of their way until the situation has been resolved. Any members interjecting in active cases of moderation are only making the job harder for the GamerPals staff.
 
 These rules try to cover as much as possible but unforeseeable situations could arise and will be up to the staff's discretion.
 
-### Use only English
-
+{{< details "Use only English" >}}
 We're an English server and our staff is primarily English speaking. We cannot moderate what we cannot understand.
+{{< /details >}}
 
-### Do not impersonate staff
-
+{{< details "Do not impersonate staff" >}}
 Don't pretend to be staff; this includes but is not limited to: copying their profile picture, putting a hammer emoji in your name, having the same name as a staff member and pretending to be a member of the staff team.
+{{< /details >}}
 
-### Follow the spirit of the rules
-
+{{< details "Follow the spirit of the rules" >}}
 This speaks for itself: don't be difficult or generally a pain in the ass by trying to find loop holes in the rules or skirt around them.
+{{< /details >}}
 
-### No Minimodding
-
+{{< details "No Minimodding" >}}
 Minimodding will not be tolerated in the server.
 
 A user is considered minimodding if they try to moderate a conversation without being a staff member. This includes repeatedly pointing out to a user that something is against the rules.
@@ -107,9 +108,11 @@ A user is considered minimodding if they try to moderate a conversation without 
 Staff have the final say on moderation matters, i.e "rule lawyering" is not permitted. If you wish to lodge a general complaint about the conduct of the moderation team in a given situation, you may do so via a ticket. You do not need to do someone else's bidding on being treated unfairly in chat, and this will likely be perceived as interference by the moderation team.
 
 If you suspect a member is breaking a rule, do not engage. Avoid piling on the user with your own rules lawyering. Alert one of our staff members through a ticket.
+{{< /details >}}
 
-### Do not discuss infractions in public
-
+{{< details "Do not discuss infractions in public" >}}
 Use a ticket if you want to discuss an infraction or mute: don't do it anywhere else on the server.
 
 Use our suggestion box if it's just a general suggestion.
+{{< /details >}}
+
