@@ -16,16 +16,18 @@ seo:
 
 Below are the rules of the server. If you are unsure about any or wish to discuss in further detail, [contact the moderators.](https://discord.com/channels/142663614937956353/1374878540784337008)
 
-{{< callout context="note" title="Note" icon="outline/info-circle" >}} All our rules apply to messages, images, profile pictures, server tags, statuses, and any other content visible from the server {{< /callout >}}
+{{< callout context="note" title="Note" icon="outline/info-circle" >}}
+All our rules apply to messages, images, profile pictures, server tags, statuses, and any other content visible from the server
+{{< /callout >}}
 
-## 1. Be kind to your fellow pals
+## 1. Be kind to your fellow pals and staff members
 
 Please help us keep this server a friendly, positive and welcoming place for all.
 
 This means:
-- No personal attacks, insults, or put-downs.
-- No inflammatory or derogatory remarks.
-- No passive aggression or backhanded comments meant to hurt or demean.
+- No personal attacks, insults, or put-downs
+- No inflammatory or derogatory remarks
+- No passive aggression or backhanded comments meant to hurt or demean
 - No hate speech, any type of bullying, or harassment (zero tolerance)
 
 ## 2. No advertising, no recruiting
@@ -107,7 +109,7 @@ A user is considered minimodding if they try to moderate a conversation without 
 
 Staff have the final say on moderation matters, i.e "rule lawyering" is not permitted. If you wish to lodge a general complaint about the conduct of the moderation team in a given situation, you may do so via a ticket. You do not need to do someone else's bidding on being treated unfairly in chat, and this will likely be perceived as interference by the moderation team.
 
-If you suspect a member is breaking a rule, do not engage. Avoid piling on the user with your own rules lawyering. Alert one of our staff members through a ticket.
+If you suspect a member is breaking a rule, do not engage. Alert one of our staff members through a ticket.
 {{< /details >}}
 
 {{< details "Do not discuss infractions in public" >}}
