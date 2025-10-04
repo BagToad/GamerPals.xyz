@@ -45,8 +45,9 @@ GamerPals is a **strictly** platonic community.
 We recognize we are all adults and feelings happen, but that's not what this is about. Joining GamerPals specifically to find a romantic partner is strictly prohibited.
 
 Violations of this rule include:
-- targeting a specific gender, or sexual orientation
-- unsolicited sexual or adjacently sexual direct messages
+
+- Targeting a specific gender or sexual orientation
+- Unsolicited sexual or adjacently sexual direct messages
 
 ## 4. No NSFW or overly graphic material
 
