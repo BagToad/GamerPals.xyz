@@ -57,12 +57,12 @@ However, excessively sexual language, jokes, or images can get in the way of pla
 Moderators **will** issue warnings for the following behavior:
 
 - graphic/directly sexual images/pornography.
-- discussion of sex acts without any meaning aside from being directly sexual.
+- discussion of sex acts without any meaning aside from being directly sexual. I.E. if it's not a joke.
 - lengthy discussion lingering on sexual themes. Moderators reserve the right to move the conversation along.
 - flirtatious sexual comments directed towards any person including themselves. Remember, GamerPals is a platonic community.
 - non-consensual sexual comments towards any person. If you're not sure how it would be received, don't say it.
 
-Staff will have the final say in what crosses the lines. Not sure? Send it to a staff member in a ticket first.
+Staff will have the final say in what crosses the lines. Not sure? Ask a staff member first.
 
 ## 5. Subjects better discussed elsewhere
 
