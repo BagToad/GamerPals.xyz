@@ -78,11 +78,10 @@ Examples of time-old topics that are covered by this rule include, but are not l
 - Ongoing global armed conflicts
 
 {{< callout context="caution" title="Important" icon="outline/alert-triangle" >}}
-Sharing your identity and experiences is always welcome. This is part of getting to know new people. The spirit of this rule is to avoid
-debates that are **ALWAYS** spicy, leading to arguments and hurt feelings.
+Sharing your identity and experiences is always welcome. This is part of getting to know new people. The spirit of this rule is to avoid divisive and potentially hostile debates on these topics.
 {{< /callout >}}
 
-GamerPals staff have the right to intervene in and shut down any conversations on these kinds of topics and redirect them to more appropriate fora. Staff also have the right to *NOT* intervene when we feel a conversation does not approach these topics. Please respect their judgment, and if you have any questions, please discuss with the staff [through a ticket](https://discord.com/channels/142663614937956353/1374878540784337008).
+GamerPals staff have the right to intervene in and shut down any conversations on these kinds of topics and redirect them to more appropriate fora. Staff also have the right to *NOT* intervene when they feel a conversation does not warrant it. Please respect their judgment, and if you have any questions, please discuss with the staff [through a ticket](https://discord.com/channels/142663614937956353/1374878540784337008).
 
 ## 6. Don't obstruct moderation
 
