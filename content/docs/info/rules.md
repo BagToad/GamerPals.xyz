@@ -59,7 +59,7 @@ Violations of this rule include:
 - Targeting a specific gender or sexual orientation
 - Unsolicited sexual or adjacently sexual direct messages
 
-## 4. No NSFW or overly graphic material
+## 4. No excessive NSFW or overly graphic material
 
 We recognize gaming culture has a connection to banter, and some degree of topics not typically "safe for work" will arise.
 
