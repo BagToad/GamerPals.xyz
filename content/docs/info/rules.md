@@ -108,7 +108,7 @@ Don't pretend to be staff; this includes but is not limited to: copying their pr
 {{< /details >}}
 
 {{< details "Follow the spirit of the rules" >}}
-This speaks for itself: don't be difficult or generally a pain in the ass by trying to find loop holes in the rules or skirt around them.
+This speaks for itself: don't be difficult or generally a pain in the ass by trying to find loop holes in the rules or skirt around them. This includes circumnavigating server systems, bots, permissions, etc.
 {{< /details >}}
 
 {{< details "No Minimodding" >}}
@@ -126,4 +126,5 @@ Use a ticket if you want to discuss an infraction or mute: don't do it anywhere 
 
 Use our suggestion box if it's just a general suggestion.
 {{< /details >}}
+
 
